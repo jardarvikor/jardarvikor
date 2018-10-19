@@ -1,0 +1,28 @@
+body {
+    background-color: darkturquoise;
+    margin: 20px;
+    padding: 30px;
+}
+p {
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+h1 {
+    font-size: 45px;
+    text-shadow: 4px 4px 4px green;
+}
+h2 {
+    25px;
+}
+a {
+    color: red;
+}
+img {
+    width:400px;
+    height:200px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: lightgreen;
+    margin-right20px;
+        
+}
